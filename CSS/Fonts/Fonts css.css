@@ -1,0 +1,30 @@
+/*ROBOTO FONT*/
+@import url('https://fonts.googleapis.com/css2?family=Maiden+Orange&family=Roboto:wght@300;400;900&display=swap');
+
+@font-face {
+  font-family: 'CircularStd-Black';
+  src: url('Black/CircularStd-Black.woff2') format('woff2'),
+       url('Black/CircularStd-Black.woff') format('woff'),
+       url('Black/CircularStd-Black.ttf')  format('truetype');
+}
+
+@font-face {
+  font-family: 'CircularStd-Bold';
+  src: url('Bold/CircularStd-Bold.woff2') format('woff2'),
+       url('Bold/CircularStd-Bold.woff') format('woff'),
+       url('Bold/CircularStd-Bold.ttf')  format('truetype');
+}
+
+@font-face {
+  font-family: 'CircularStd-Book';
+  src: url('Book/CircularStd-Book.woff2') format('woff2'),
+       url('Book/CircularStd-Book.woff') format('woff'),
+       url('Book/CircularStd-Book.ttf')  format('truetype');
+}
+
+@font-face {
+  font-family: 'CircularStd-Medium';
+  src: url('Medium/CircularStd-Medium.woff2') format('woff2'),
+       url('Medium/CircularStd-Medium.woff') format('woff'),
+       url('Medium/CircularStd-Medium.ttf')  format('truetype');
+}

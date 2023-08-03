@@ -1,0 +1,10 @@
+@font-face {
+  font-family: 'CircularStd-Black';
+  src: url('/path-to/CircularStd-Black.woff2') format('woff2'),
+       url('/path-to/CircularStd-Black.woff') format('woff'),
+       url('/path-to/CircularStd-Black.ttf')  format('truetype');
+}
+
+body {
+  font-family: 'CircularStd-Black', sans-serif;
+}
